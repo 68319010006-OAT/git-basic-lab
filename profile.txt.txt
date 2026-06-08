@@ -1,2 +1,4 @@
 ชื่อ: นายธนกฤต อินทร์ยัง (โอ๊ต)
 สาขา: เทคโนโลยีสารสนเทศ
+Name: Thanakrit Inyoung
+Department: IT
